@@ -1,0 +1,19 @@
+{
+    "name": "sandi/si-mvc",
+    "description": "Tugas 2",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Sandi",
+            "email": "santuy132109@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "filp/whoops": "^2.14"
+    }
+}
